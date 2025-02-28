@@ -15,3 +15,10 @@ This site can be found at:
   - ⚙ Settings
   - 🗔 Pages
     - then from the "Deploy from a branch ▼" button, select "GitHub Actions"
+    [![GitHub's Super Linter](https://github.com/brktr/Unit1-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/brktr/Unit1-05-HTML-MDL/actions)
+
+
+[![Run on Repl.it](https://repl.it/badge/github/brktr/Unit1-05-HTML-MDL)](https://repl.it/github/brktr/Unit1-05-HTML-MDL)
+
+
+This site can be found at: [https://brktr.github.io/Unit1-05-HTML-MDL](https://brktr.github.io/Unit1-05-HTML-MDL)
